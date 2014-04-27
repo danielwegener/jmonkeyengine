@@ -25,6 +25,7 @@
         <module>jme3-testdata</module>
         <module>jme3-effects</module>
         <module>jme3-examples</module>
+        <module>sdk</module>
     </modules>
 
     <parent>
@@ -62,8 +63,8 @@
     </prerequisites>
 
     <issueManagement>
-        <url>https://code.google.com/p/jmonkeyengine/wiki/IssueFrontpage?tm=3</url>
-        <system>google</system>
+        <url>https://github.com/jMonkeyEngine/jmonkeyengine/issues</url>
+        <system>GitHub Issues</system>
     </issueManagement>
 
     <scm>
